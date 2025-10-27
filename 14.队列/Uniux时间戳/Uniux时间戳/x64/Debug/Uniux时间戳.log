@@ -1,0 +1,2 @@
+﻿  Unix时间戳.c
+D:\数据结构与算法基础\14.队列\Uniux时间戳\Uniux时间戳\Unix时间戳.c(15,12): error C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
