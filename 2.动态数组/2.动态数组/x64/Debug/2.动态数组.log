@@ -1,0 +1,7 @@
+﻿  动态数组.c
+C:\Users\jna213\Desktop\MyCode\数据结构与算法基础\2.动态数组\2.动态数组\动态数组.c(48,26): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\jna213\Desktop\MyCode\数据结构与算法基础\2.动态数组\2.动态数组\动态数组.c(99,18): warning C4047: “函数”:“DongShuZu *”与“DongShuZu **”的间接级别不同
+C:\Users\jna213\Desktop\MyCode\数据结构与算法基础\2.动态数组\2.动态数组\动态数组.c(99,18): warning C4024: “ZengJiaKongJian”: 形参和实参 1 的类型不同
+C:\Users\jna213\Desktop\MyCode\数据结构与算法基础\2.动态数组\2.动态数组\动态数组.c(132,18): warning C4047: “函数”:“DongShuZu *”与“DongShuZu **”的间接级别不同
+C:\Users\jna213\Desktop\MyCode\数据结构与算法基础\2.动态数组\2.动态数组\动态数组.c(132,18): warning C4024: “ZengJiaKongJian”: 形参和实参 1 的类型不同
+  2.动态数组.vcxproj -> C:\Users\jna213\Desktop\MyCode\数据结构与算法基础\2.动态数组\x64\Debug\2.动态数组.exe
